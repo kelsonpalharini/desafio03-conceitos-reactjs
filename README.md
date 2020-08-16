@@ -18,27 +18,19 @@ Mais detalhes do desafio você encontra clicando aqui, [Desafio 03 - React.Js](h
 
 ### Rodando a aplicação <a name = "running"></a>
 
-A aplicação possui 2 script's para execução:
-
-- dev
-
-Executa a aplicação em modo de desenvolvimento, usando o nodemon para o auto-reload da aplicação.
-Você deve executar usando:
+Para rodar a aplicação você deve usar o comando:
 
 ```
-yarn dev
+yarn start
 ```
 
-- jest
-
-Executa a aplicação em modo de teste. Você deve executar usando:
+Para executar os testes, você deve usar o comando:
 
 ```
-yarn jest
+yarn test
 ```
 
 ## Construído usando <a name = "built_using"></a>
 
-- [Node.JS](https://nodejs.org/) - JavaScript runtime
-- [Express](https://expressjs.com/) - Rest Framework
+- [React.JS](https://nodejs.org/) - JavaScript library for building user interfaces
 - [JEST](https://jestjs.io//) - JavaScript Testing Framework
