@@ -32,5 +32,5 @@ yarn test
 
 ## Construído usando <a name = "built_using"></a>
 
-- [React.JS](https://nodejs.org/) - JavaScript library for building user interfaces
+- [React.JS](https://reactjs.org/) - JavaScript library for building user interfaces
 - [JEST](https://jestjs.io//) - JavaScript Testing Framework
